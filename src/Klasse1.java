@@ -12,4 +12,8 @@ public class Klasse1 {
 	public void function1() {
 		System.out.println("function1()");
 	}
+	
+	public void function_2() {
+		System.out.println("function1()");
+	}
 }
